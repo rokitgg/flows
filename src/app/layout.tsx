@@ -18,6 +18,10 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "Ethereum ETFs Dashboard",
   description: "Minimal dashboard to track the performance of newly launched Spot Ethereum ETFs.",
+  authors: {
+    name: "RokitG",
+    url: "https://x.com/rokitdotgg",
+  },
 };
 
 export default function RootLayout({
