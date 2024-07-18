@@ -70,7 +70,7 @@ export const products: ETF[] = [
       id: 'grayscale-mini-eth',
       issuer: issuers.grayscale,
       ticker: "ETH", 
-      fee: 0.25,
+      fee: .15,
       name: 'Grayscale Ethereum Mini Trust',
       launchedAt: new Date('2024-07-23')
     },
